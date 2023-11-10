@@ -1,0 +1,113 @@
+<?php
+/* vim: set expandtab tabstop=4 softtabstop=4 shiftwidth=4:
+  Codificación: UTF-8
+  +----------------------------------------------------------------------+
+  " Elastix version 1.0                                                  "
+  " http://www.elastix.org                                               "
+  +----------------------------------------------------------------------+
+  " Copyright (c) 2006 Palosanto Solutions S. A.                         "
+  +----------------------------------------------------------------------+
+  " Cdla. Nueva Kennedy Calle E 222 y 9na. Este                          "
+  " Telfs. 2283-268, 2294-440, 2284-356                                  "
+  " Guayaquil - Ecuador                                                  "
+  " http://www.palosanto.com                                             "
+  +----------------------------------------------------------------------+
+  " The contents of this file are subject to the General Public License  "
+  " (GPL) Version 2 (the "License"); you may not use this file except in "
+  " compliance with the License. You may obtain a copy of the License at "
+  " http://www.opensource.org/licenses/gpl-license.php                   "
+  "                                                                      "
+  " Software distributed under the License is distributed on an "AS IS"  "
+  " basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See  "
+  " the License for the specific language governing rights and           "
+  " limitations under the License.                                       "
+  +----------------------------------------------------------------------+
+  " The Original Code is: Elastix Open Source.                           "
+  " The Initial Developer of the Original Code is PaloSanto Solutions    "
+  "                                                                      "
+  " Translate by: Bruno Macias                                           "
+  " Email: bmacias@palosanto.com                                         "
+  +----------------------------------------------------------------------+
+  $Id: en.lang,v 1.7 2008/02/18 09:49:00 bmacias Exp $ */
+global $arrLangModule;
+$arrLangModule=array(
+"File" => "File to Upload (*.xls)",
+"المزاحميه"  =>  "musahamya",
+"ةلمزاحميه"  =>  "musahamya",
+"شقراء"      => "shakra",
+"رابغ"       =>  "rabig",
+"القويعية"   =>    "quwiya",
+"القويعيه"   =>    "quwiya",
+"الزلفي"     =>  "zalfi",
+"المذنب"     =>             "madnab",
+"بريده"     =>             "buraidah",
+"بريدة"     =>             "buraidah",
+"البكيريه"    =>        "libkiriya",
+"البكيرية"    =>        "libkiriya",
+"الخبر"       =>         "hobar",
+"الخفجي"         =>       "hafgi",
+"حفر الباطن"     =>  "hafrulbathan",
+"حائل"   =>     "hail",
+"عرعر"       =>   "arar",
+"القريات"     => "garayath",
+"الطائف"   =>         "thaif",
+"جيزان" =>       "jazan",
+"الافلاج" =>     "aflaj",
+"ابها" =>       "abha",
+"بيشه" =>    "bisha" ,
+"بيشة" =>    "bisha" ,
+"شروره" =>        "sharura",
+"شرورة" =>        "sharura",
+"المبرز" =>        "mubaras",
+"خميس مشيط" =>   "hamismushaith",
+"رأس تنورة" =>            "rasthannura",
+"رأس تنوره" =>            "rasthannura",
+"الدمام" =>              "dammam",
+"جدة"=>                "jeddah",
+"جده"=>                "jeddah",
+"الجبيل" =>             "jubail",	
+"رفحا" =>     "rafah",
+"الخرج" => "karj",
+"حوطه بني تميم" => "hothathbanithami",
+"رنيه" => "raniya",
+"رنية" => "raniya",
+"الباحة" => "albaha",
+"الباحه" => "albaha",
+"المجمعه" =>  "majmua",
+"المجمعة" =>  "majmua",
+"ساجر" =>     "sajir",
+"الدوادمي" =>    "aldoadmi",
+"رماح " =>         "rumah",
+"مكة المكرمة" =>         "makkah",
+"مكه المكرمه" =>         "makkah",
+"القنفذة" =>    "kunfudah",
+"القنفذه" =>    "kunfudah",
+"المدينة المنورة" => "munawara",
+"المدينه المنوره" => "munawara",
+"طريف" =>   "thuraif",
+"تبوك" => "thabuk" ,
+"عفيف"  => "afif",
+"عنيزه" => "onisa",
+"عنيزة" => "onisa",
+"البدائع" => "badaya",
+"الرس" => "arras",
+"القطيف" => "qadiff" ,
+"طبرجل" =>  "thabarjal",
+"النماص" =>  "namas",
+"نجران" =>    "najran",
+"الاحساء" => "alahsa",
+"الجمش"  => "aljams",
+"الجوف" => "aljouf",
+"الشنان" => "asnan",
+"القحمة" => "kahnama",
+"القحمه" => "kahnama",
+"بقعاء" => "baga",
+"ضريه" => "dariyya",
+"ضرية" => "dariyya",
+"وادي الدواسر" => "wadidoaser" ,
+"ينبع" => "yanbu",
+"الوجة"  => "alvag",
+"الوجه"  => "alvag",
+
+);
+?>

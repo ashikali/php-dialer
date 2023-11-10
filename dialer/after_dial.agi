@@ -1,0 +1,85 @@
+#!/usr/bin/php -q
+<?php
+require_once "libs/init.php";
+require_once "libs/phpagi.php";
+
+pcntl_signal(SIGHUP, SIG_IGN);
+
+
+class AfterDial extends Common_Utils {
+	
+	var $agi;
+
+	function AfterDial() {
+
+		$this->db_conn();
+                $this->init_log("afterdial.log","AfterDial");
+		$this->agi = new AGI();
+		$this->agi->exec_setlanguage('ar');
+	}
+
+	function variable_value($variable_name) {
+
+	      $result = $this->agi->get_variable($variable_name);
+	
+	      if($result["result"] == "1")
+	        return $result["data"];
+	      else
+	        return Null;
+	}
+
+	function main() {	
+	
+		$ref_no = $this->variable_value("ref_no");
+		$dial_status = $this->variable_value("DIALSTATUS");
+		if(DIALER_LOG)
+			$this->log->log("<<<<<<<<<<<{$dial_status}>>>>{$ref_no}>>>>>>>>>>>>>");
+		switch($dial_status){
+		    case "ANSWER":
+				 $uniqueid =$this->agi->request["agi_uniqueid"] ;
+				 $query = "UPDATE callouts SET status='F',uniqueid='{$uniqueid}',message='{$dial_status}' WHERE id={$ref_no}";
+				 $this->db->genQuery($query);
+			  	 if(DIALER_LOG)
+			  		$this->log->log("<<<<<<<<<<<{$dial_status}>>>>{$ref_no}>>>>>>>>>>>>>");
+				 $this->agi->exec("GoTo", $this->launch_ivr);
+				 break;
+		    default:
+				 $date_str = date("Y-m-d H:i:s",time()+( 60 * 60  ));
+				 $query = "UPDATE callouts SET scheduled_on='{$date_str}',message='{$dial_status}',
+					   tries=tries+1,status=IF(tries < 2,'Q','F')
+					   WHERE id={$ref_no}";
+				 $this->db->genQuery($query);
+			  	 if(DIALER_LOG)
+			  		$this->log->log("<<<<<<<<<<<{$dial_status}>>>>{$ref_no}>>>>>>>>>>>>>");
+				 break;
+		}
+
+	}
+
+}
+$afterdial = new AfterDial();
+$afterdial->main();
+
+		/*
+		  ANSWER: Call is answered. A successful dial. The caller reached the callee.
+		  BUSY: Busy signal. The dial command reached its number but the number is busy.
+		  NOANSWER: No answer. The dial command reached its number, the number rang for too long, then the dial timed out.
+		  CANCEL: Call is cancelled. The dial command reached its number but the caller hung up before the callee picked up.
+		  CONGESTION: Congestion. This status is usually a sign that the dialled number is not recognised.
+		  CHANUNAVAIL: Channel unavailable. On SIP, peer may not be registered.
+		  DONTCALL: Privacy mode, callee rejected the call
+		  TORTURE: Privacy mode, callee chose to send caller to torture menu
+		  INVALIDARGS: Error parsing Dial command arguments  
+		    case "BUSY":
+		    case "NOANSWER":
+				 $query = "UPDATE callouts SET scheduled_on='{$date_str}',status='P',message='{$dial_status}#THIRD' WHERE id={$ref_no}";
+				 $this->db->genQuery($query);
+				 //internal dialing issue so, no need to increase tries
+				 break; 
+				$date_str = date("Y-m-d H:i:s",time()+( 60 * 2 ));
+
+		
+
+*/
+
+?>
