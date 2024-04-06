@@ -1,0 +1,29 @@
+11:45:35 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','',now()) => 1
+11:54:24 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:54:24 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:54:24 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:55:59 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:55:59 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:55:59 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:57:16 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:57:16 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+11:57:16 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:14:12 04/06/24 ScheduleCalls [info] SELECT numbers FROM feature_code_groups WHERE feature_code='4444' => Array
+13:14:12 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:14:12 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:14:12 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:20:48 04/06/24 ScheduleCalls [info] SELECT numbers FROM feature_code_groups WHERE feature_code='4444' => Array
+13:20:48 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:20:48 04/06/24 ScheduleCalls [info] insert into callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:24:19 04/06/24 ScheduleCalls [info] SELECT numbers FROM feature_code_groups WHERE feature_code='4444' => Array
+13:24:19 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1000','4444',now()) => 1
+13:24:19 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+13:25:56 04/06/24 ScheduleCalls [info] SELECT numbers FROM feature_code_groups WHERE feature_code='4444' => Array
+13:25:56 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1000','4444',now()) => 1
+13:25:56 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+14:18:40 04/06/24 ScheduleCalls [info] SELECT numbers FROM feature_code_groups WHERE feature_code='4444' => Array
+14:18:40 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1000','4444',now()) => 1
+14:18:40 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1
+14:20:29 04/06/24 ScheduleCalls [info] SELECT numbers FROM feature_code_groups WHERE feature_code='4444' => Array
+14:20:29 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1000','4444',now()) => 1
+14:20:29 04/06/24 ScheduleCalls [info] INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('1001','4444',now()) => 1

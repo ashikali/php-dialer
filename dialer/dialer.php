@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php 
 require_once "libs/init.php";
-require_once "libs/phpagi-asmanager.php" ;
+require_once "phpagi-asmanager.php" ;
 
 class Dialer extends Common_Utils {
 
@@ -14,7 +14,6 @@ class Dialer extends Common_Utils {
 		$this->ami = new AGI_AsteriskManager(NULL,$manager);
 		$this->ami->connect();
 		$this->ami->Events("Off");
-		
 		
 	}
 	function clear_pending() {
@@ -37,7 +36,8 @@ class Dialer extends Common_Utils {
 			$hour = date("H");
 			$concurrent = $this->check_concurrent();
 
-			if( in_array($day,$this->dial_days) and in_array($hour,$this->dial_times) and $concurrent < 1 ) {
+			#if( in_array($day,$this->dial_days) and in_array($hour,$this->dial_times) and $concurrent < 1 ) {
+			if( $concurrent < 1 ) {
 
 				if(DIALER_LOG)
 					$this->log->log("Concurrent Checking Finished...taking records for dialing");
@@ -52,18 +52,21 @@ class Dialer extends Common_Utils {
 				if(DIALER_LOG)
 					$this->log->log("<<<<<<<<<<<<<<<".count($results).">>>>>>>>>>>");
 				foreach($results as $in => $number){
-
-						$res = $this->ami->Originate("local/DIAL@GDialer-context","ANSWERED","GDialer-context","1",NULL,NULL,NULL,NULL,"dial_number={$number['number_to_dial']},ref_no={$number['id']}",NULL,true,false);
+                                                
+					 $originate = [ "Channel" => "local/DIAL@dialer-context",
+                                                       "Exten" => "ANSWERED",
+                                                       "Context" => "dialer-context",
+                                                       "Priority" => "1",
+                                                       "CallerID" => "Emergency<asdf>",
+                                                       "Variable" => "dial_number={$number['number_to_dial']},ref_no={$number['id']}",
+                                                       "Async" => "True" ];
+                                         $res = $this->ami->Originate($originate);
 					 if($res["Response"] == "Success") {
-
 						$sql= "UPDATE callouts SET status='P',dialed_on=now() WHERE id={$number['id']}";
 						$this->db->genQuery($sql);
-
 					}
-
 				if(DIALER_LOG)
 					$this->log->log("Dialing {$number['number_to_dial']}  => {$res["Response"]}");
-						
 				}
 			}
 			sleep(5);

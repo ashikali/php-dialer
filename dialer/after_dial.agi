@@ -1,7 +1,7 @@
 #!/usr/bin/php -q
 <?php
 require_once "libs/init.php";
-require_once "libs/phpagi.php";
+require_once "phpagi.php";
 
 pcntl_signal(SIGHUP, SIG_IGN);
 
@@ -15,7 +15,7 @@ class AfterDial extends Common_Utils {
 		$this->db_conn();
                 $this->init_log("afterdial.log","AfterDial");
 		$this->agi = new AGI();
-		$this->agi->exec_setlanguage('ar');
+		#$this->agi->exec_setlanguage('ar');
 	}
 
 	function variable_value($variable_name) {
@@ -37,11 +37,13 @@ class AfterDial extends Common_Utils {
 		switch($dial_status){
 		    case "ANSWER":
 				 $uniqueid =$this->agi->request["agi_uniqueid"] ;
-				 $query = "UPDATE callouts SET status='F',uniqueid='{$uniqueid}',message='{$dial_status}' WHERE id={$ref_no}";
+				 $query = "UPDATE callouts SET status='F',uniqueid='{$uniqueid}',
+                                                  message='{$dial_status}',tries=tries+1 
+                                           WHERE id={$ref_no}";
 				 $this->db->genQuery($query);
 			  	 if(DIALER_LOG)
 			  		$this->log->log("<<<<<<<<<<<{$dial_status}>>>>{$ref_no}>>>>>>>>>>>>>");
-				 $this->agi->exec("GoTo", $this->launch_ivr);
+				 $this->agi->exec("PlayBack","4444");
 				 break;
 		    default:
 				 $date_str = date("Y-m-d H:i:s",time()+( 60 * 60  ));
@@ -59,7 +61,6 @@ class AfterDial extends Common_Utils {
 }
 $afterdial = new AfterDial();
 $afterdial->main();
-
 		/*
 		  ANSWER: Call is answered. A successful dial. The caller reached the callee.
 		  BUSY: Busy signal. The dial command reached its number but the number is busy.

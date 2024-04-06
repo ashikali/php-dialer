@@ -1,0 +1,1725 @@
+12:07:36 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:07:36 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:07:36 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:07:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:41 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:07:41 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:07:41 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:07:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:46 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:07:46 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:07:46 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:07:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:51 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:07:51 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:07:51 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:07:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:56 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:07:56 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:07:56 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:07:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:07:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:01 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:01 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:01 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:06 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:06 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:06 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:06 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:06 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:06 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:06 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:06 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:06 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:11 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:11 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:11 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:11 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:11 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:11 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:11 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:11 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:11 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:16 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:16 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:16 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:21 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:21 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:21 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:26 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:26 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:26 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:31 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:31 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:31 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:36 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:36 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:36 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:41 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:08:41 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:08:41 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:08:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:08:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:16 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:16 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:16 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:16 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:21 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:21 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:21 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:21 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:26 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:26 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:26 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:26 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:31 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:31 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:31 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:31 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:36 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:36 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:36 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:36 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:41 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:41 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:41 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:46 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:46 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:46 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:46 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:51 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:51 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:51 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:51 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:56 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:29:56 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:29:56 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:29:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:29:56 04/06/24 Dialer [info] Dialing 1001  => Error
+12:30:01 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:30:01 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:30:01 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:30:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:30:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:30:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:30:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:30:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:30:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:33:41 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:33:41 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:33:41 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:33:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:33:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:33:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:33:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:33:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:33:41 04/06/24 Dialer [info] Dialing 1001  => Error
+12:34:01 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:34:01 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:34:01 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:34:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:34:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:34:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:34:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:34:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:34:01 04/06/24 Dialer [info] Dialing 1001  => Error
+12:37:49 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:37:49 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:37:49 04/06/24 Dialer [info] <<<<<<<<<<<<<<<6>>>>>>>>>>>
+12:37:49 04/06/24 Dialer [info] Dialing 1001  => Success
+12:37:49 04/06/24 Dialer [info] Dialing 1001  => Success
+12:37:50 04/06/24 Dialer [info] Dialing 1001  => Success
+12:37:50 04/06/24 Dialer [info] Dialing 1001  => Success
+12:37:50 04/06/24 Dialer [info] Dialing 1001  => Success
+12:37:50 04/06/24 Dialer [info] Dialing 1001  => Success
+12:42:49 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:42:49 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:42:49 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:42:49 04/06/24 Dialer [info] Dialing 1001  => Success
+12:43:12 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:43:12 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:43:12 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:43:12 04/06/24 Dialer [info] Dialing 1001  => Success
+12:43:32 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:43:32 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:43:32 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:43:32 04/06/24 Dialer [info] Dialing 1001  => Success
+12:43:47 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:43:47 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:43:47 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:43:47 04/06/24 Dialer [info] Dialing 1001  => Success
+12:44:02 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:44:02 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:44:02 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:44:02 04/06/24 Dialer [info] Dialing 1001  => Success
+12:47:52 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:47:52 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:47:52 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:47:52 04/06/24 Dialer [info] Dialing 1001  => Success
+12:48:39 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:48:39 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:48:39 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:48:39 04/06/24 Dialer [info] Dialing 1001  => Success
+12:48:44 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:48:44 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:48:44 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:48:44 04/06/24 Dialer [info] Dialing 1001  => Success
+12:48:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:48:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:48:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:48:53 04/06/24 Dialer [info] Dialing 1001  => Success
+12:49:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:49:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:49:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:49:28 04/06/24 Dialer [info] Dialing 1001  => Success
+12:51:25 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:51:25 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:51:25 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:51:25 04/06/24 Dialer [info] Dialing 1001  => Success
+12:56:54 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:56:54 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:56:54 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:56:54 04/06/24 Dialer [info] Dialing 1001  => Success
+12:57:34 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:57:34 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:57:34 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:57:34 04/06/24 Dialer [info] Dialing 1001  => Success
+12:59:14 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:59:14 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:59:14 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:59:14 04/06/24 Dialer [info] Dialing 1001  => Success
+12:59:39 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+12:59:39 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+12:59:39 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+12:59:39 04/06/24 Dialer [info] Dialing 1001  => Success
+13:00:06 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:00:06 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:00:06 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:00:06 04/06/24 Dialer [info] Dialing 1001  => Success
+13:06:36 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:06:36 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:06:36 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:06:36 04/06/24 Dialer [info] Dialing 1001  => Success
+13:07:06 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:07:06 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:07:06 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:07:06 04/06/24 Dialer [info] Dialing 1001  => Success
+13:08:25 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:25 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:25 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:08:25 04/06/24 Dialer [info] Dialing 1001  => Success
+13:08:30 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:30 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:30 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:08:35 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:35 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:35 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:08:40 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:40 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:40 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:08:45 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:45 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:45 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:08:50 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:50 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:50 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:08:55 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:08:55 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:08:55 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:00 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:00 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:00 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:05 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:05 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:05 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:10 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:10 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:10 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:15 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:15 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:15 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:20 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:20 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:20 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:25 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:25 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:25 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:30 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:30 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:30 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:35 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:35 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:35 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:40 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:40 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:40 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:45 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:45 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:45 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:09:50 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:09:50 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:09:50 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:12 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:12 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:12 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:20:12 04/06/24 Dialer [info] Dialing 1001  => Success
+13:20:17 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:17 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:17 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:22 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:22 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:22 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:27 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:27 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:27 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:32 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:32 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:32 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:37 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:37 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:37 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:42 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:42 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:42 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:47 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:47 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:47 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:20:52 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:52 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:52 04/06/24 Dialer [info] <<<<<<<<<<<<<<<2>>>>>>>>>>>
+13:20:52 04/06/24 Dialer [info] Dialing 1001  => Success
+13:20:53 04/06/24 Dialer [info] Dialing 1001  => Success
+13:20:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:20:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:20:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:21:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:21:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:21:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:22:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:22:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:22:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:23:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:23:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:23:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<2>>>>>>>>>>>
+13:24:23 04/06/24 Dialer [info] Dialing 1000  => Success
+13:24:23 04/06/24 Dialer [info] Dialing 1001  => Success
+13:24:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:24:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:24:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:24:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:25:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:25:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:25:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<2>>>>>>>>>>>
+13:25:58 04/06/24 Dialer [info] Dialing 1000  => Success
+13:25:58 04/06/24 Dialer [info] Dialing 1001  => Success
+13:26:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:26:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:26:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:26:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:27:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:27:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:27:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:28:33 04/06/24 Dialer [info] Dialing 1000  => Success
+13:28:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:28:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:28:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:28:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:29:33 04/06/24 Dialer [info] Dialing 1000  => Success
+13:29:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:29:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:29:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:29:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<1>>>>>>>>>>>
+13:30:23 04/06/24 Dialer [info] Dialing 1000  => Success
+13:30:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:30:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:30:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:30:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:31:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:31:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:31:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:32:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:32:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:32:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:33:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:33:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:33:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:28 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:28 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:28 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:33 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:33 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:33 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:38 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:38 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:38 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:43 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:43 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:43 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:48 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:48 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:48 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:53 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:53 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:53 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:34:58 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:34:58 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:34:58 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:35:03 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:35:03 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:35:03 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:35:08 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:35:08 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:35:08 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:35:13 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:35:13 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:35:13 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:35:18 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:35:18 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:35:18 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+13:35:23 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+13:35:23 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+13:35:23 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      14:19:14 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:19:14 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:19:14 04/06/24 Dialer [info] <<<<<<<<<<<<<<<2>>>>>>>>>>>
+14:19:14 04/06/24 Dialer [info] Dialing 1000  => Success
+14:19:14 04/06/24 Dialer [info] Dialing 1001  => Success
+14:19:24 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:19:24 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:19:24 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:00 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:00 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:00 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:05 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:05 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:05 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:10 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:10 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:10 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:15 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:15 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:15 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:20 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:20 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:20 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:25 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:25 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:25 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>
+14:20:30 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:30 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:30 04/06/24 Dialer [info] <<<<<<<<<<<<<<<2>>>>>>>>>>>
+14:20:30 04/06/24 Dialer [info] Dialing 1000  => Success
+14:20:30 04/06/24 Dialer [info] Dialing 1001  => Success
+14:20:50 04/06/24 Dialer [info] Concurrent Checking Finished...taking records for dialing
+14:20:50 04/06/24 Dialer [info] SELECT id,number_to_dial
+				       FROM   callouts  
+				       WHERE 
+				              status='Q' and scheduled_on <= now()  ORDER BY id LIMIT 10
+14:20:50 04/06/24 Dialer [info] <<<<<<<<<<<<<<<0>>>>>>>>>>>

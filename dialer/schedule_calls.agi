@@ -1,0 +1,62 @@
+#!/usr/bin/php -q
+<?php
+require_once "libs/init.php";
+require_once "phpagi.php";
+pcntl_signal(SIGHUP, SIG_IGN);
+
+class ScheduleCalls extends Common_Utils {
+	
+	var $agi;
+
+	function __construct() {
+
+		$this->db_conn();
+                $this->init_log("schedule_calls.log","ScheduleCalls");
+		$this->agi = new AGI();
+		
+	}
+
+	function variable_value($variable_name) {
+
+	      $result = $this->agi->get_variable($variable_name);
+	
+	      if($result["result"] == "1")
+	        return $result["data"];
+	      else
+	        return Null;
+	}
+
+	function main() {	
+	
+		$context = $this->agi->request["agi_context"];
+		$exten  = $this->agi->request["agi_extension"];
+		$uniqueid = $this->agi->request["agi_uniqueid"];
+                $query = "SELECT numbers FROM feature_code_groups WHERE feature_code='{$exten}'";
+                $record = $this->db->getFirstRowQuery($query);
+		if(DIALER_LOG)
+		  $this->log->log("{$query} => {$record}");
+                $records = explode(',',$record[0]);
+               
+                foreach($records as $number){
+                     $query = "INSERT INTO callouts(number_to_dial,feature_code,scheduled_on) values('{$number}','{$exten}',now())";
+                     $response = $this->db->genQuery($query);
+		     if(DIALER_LOG)
+			$this->log->log("{$query} => {$response}");
+                }
+
+	}
+
+}
+$afterdial = new ScheduleCalls(); 
+$afterdial->main();
+
+/*
+
+ agi_context - current context
+    *   agi_extension - extension dialed
+    *   agi_priority - current priority
+
+*/
+
+
+?>
